@@ -1,6 +1,6 @@
 <!--h1 align="center">Hi 👋, I'm Steel Herrera</h1>
 <h3 align="center">A software developer from Colombia</h3-->
-![Profile Image](https://drive.google.com/uc?export=download&id=1fspapKrj87k-AX3VtttdOYgNL8QKa8Fn)
+https://drive.google.com/uc?export=download&id=1JGe_zeGbZ_pogPEM9ib_QWUfiKOe73yY
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steelherrera&label=Profile%20views&color=0e75b6&style=flat" alt="steelherrera" /> </p>
 
 - 🔭 I’m currently working on [Omnix](https://grupoformax.com/omnix/)
