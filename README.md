@@ -13,6 +13,7 @@
 
 - ⚡ Fun fact **I love tech**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/steel-herrera-franco-894730134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steel-herrera-franco-894730134" height="30" width="40" /></a>
