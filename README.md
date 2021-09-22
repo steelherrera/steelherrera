@@ -1,5 +1,3 @@
-<!--h1 align="center">Hi 👋, I'm Steel Herrera</h1>
-<h3 align="center">A software developer from Colombia</h3-->
 ![Profile Image](https://drive.google.com/uc?export=download&id=1JGe_zeGbZ_pogPEM9ib_QWUfiKOe73yY)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steelherrera&label=Profile%20views&color=0e75b6&style=flat" alt="steelherrera" /> </p>
 
@@ -12,6 +10,7 @@
 - 📫 How to reach me **steelherrera@gmail.com**
 
 - ⚡ Fun fact **I love tech**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
