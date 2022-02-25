@@ -1,7 +1,7 @@
 ![Profile Image](https://drive.google.com/uc?export=download&id=1JGe_zeGbZ_pogPEM9ib_QWUfiKOe73yY)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steelherrera&label=Profile%20views&color=0e75b6&style=flat" alt="steelherrera" /> </p>
 
-- 🔭 I’m currently working on [Omnix](https://grupoformax.com/omnix/)
+- 🔭 I’m currently working on [Spot](https://www.getspot.com/)
 
 - 🌱 I’m currently learning **Kubernetes**
 
