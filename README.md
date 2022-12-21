@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **Node.js, AWS, MongoDB, Docker, Microservices, Serverless**
+- 💬 Ask me about **Node.js, Typescript, AWS, PostgreSQL, MongoDB, Docker, Microservices, Serverless**
 
 - 📫 How to reach me **steelherrera@gmail.com**
 
